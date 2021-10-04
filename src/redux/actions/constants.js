@@ -1,0 +1,5 @@
+export const constants = {
+  FETCHING_DATA: "FETCHING_DATA",
+  FETCH_SUCCESS: "FETCH_SUCCESS",
+  FETCH_FAILED: "FETCH_FAILED"
+};
